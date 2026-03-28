@@ -1,4 +1,4 @@
-# My Web In App – Privacy Policy (Web Viewer Feature)
+# My Web In App – Privacy Policy 
 
 *Last updated: March 2026*
 
